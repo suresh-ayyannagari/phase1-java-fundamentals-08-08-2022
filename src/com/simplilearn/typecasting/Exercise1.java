@@ -17,7 +17,7 @@ public class Exercise1 {
 	
 
 		
-		// TODO :: WAP for data converting from int, byte, short  -> float , double & long.
+		
 
 	}
 }
